@@ -1,2 +1,4 @@
-mission "Deep Sky Recruitment A"
-		name 
+mission "Deep Sky 1"
+		name `The Pirate Fleet`
+		description `A fleet of pirates has been spotted near <planet>, join the reinforcement squads quickly made out of many merchant captains and eliminate the fleet before <system> gets overrun.`
+		
