@@ -1,3 +1,12 @@
 mission "Deep Sky 1"
 	description `A fleet of pirates has been spotted near <destination>, join the reinforcement squads quickly made out of many merchant captains and eliminate the fleet before <system> gets overrun.`
 	source 
+	npc evade
+		personality heroic staying plunders
+		government "Pirate"
+		system 
+		fleet
+			names 
+			variant
+			
+			
